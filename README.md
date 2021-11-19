@@ -1,1 +1,1 @@
-# TSEI
+# TSEI-exercices
